@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Personal projects:
+  [Cryptopay](https://crypto-pay.netlify.app/): Send eth to another user using metamask wallet (Please use Ropsten network).
+  [Smart brain](https://smart-brain-images.herokuapp.com/): Face recognition app by Image Url.
+  [Hattori Clothing](https://hattori-clothing.herokuapp.com/): E-commerce app.
 <!--
 **nakandakare/nakandakare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
